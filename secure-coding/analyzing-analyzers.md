@@ -70,5 +70,10 @@ What if we are missing some source, sink, or sanitizer? Well, we will miss a vul
 
 But how can we add a custom source, sink, or sanitizer to improve the scanning quality? It depends on whether a product supports this feature.
 
-It sounds complicated, and you may prefer to pay for good rules (sink, source, sanitizer) and let the vendor take care of them. But vendors will always try to convince you that some parts are too hard to manage. Let's try to figure it out.
+It sounds complicated, and you may prefer to pay for good rules (sink, source, sanitizer) and let the vendor take care of them. But vendors will always try to convince you that some parts are too hard to manage.&#x20;
 
+Let's try to figure it out along with scan quality.
+
+{% content-ref url="../show-me-your-pull-request.md" %}
+[show-me-your-pull-request.md](../show-me-your-pull-request.md)
+{% endcontent-ref %}
